@@ -14,7 +14,7 @@ div{
     morgin:auto;
     text-shawdow: 2px 2px black;
     color:black;
-    box-shawdow:5px 5px 5px white;
+    box-shawdow:5px 5px 5px red;
 }
 #item1{
      border: 5px groove purple;
