@@ -1,1 +1,27 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+body{
+    font-family=Roleway;
+    background-color=red;
+    font-size:200%,
+    text-aling:center;
+    text-shawdow: 2px 2px 2px white 
+}
+div{
+    background-image:url(download.jpeg);
+    background-size:55px;
+    background-color:purple;
+    width:300px;
+    morgin:auto;
+    text-shawdow: 2px 2px black;
+    color:black;
+    box-shawdow:5px 5px 5px white;
+}
+#item1{
+     border: 5px groove purple;
+}
+#item2{
+     border: 5px dotted purple;
+}
+img{
+  width:400px;
+}
